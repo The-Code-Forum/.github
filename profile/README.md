@@ -61,7 +61,7 @@
 <!-- ABOUT US -->
 ## About Us
 
-At **[Organization Name]**, we are passionate about creating a community where developers can collaborate, share knowledge, and contribute to open-source projects. We believe in the power of technology to bring positive change and empower individuals worldwide.
+At **The Code Forum**, we are passionate about creating a community where developers can collaborate, share knowledge, and contribute to open-source projects. We believe in the power of technology to bring positive change and empower individuals worldwide.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
