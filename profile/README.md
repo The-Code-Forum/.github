@@ -84,9 +84,7 @@ We aim to:
 Our organization is involved in various innovative and impactful projects, from web applications to AI-powered solutions. We encourage everyone to get involved in our open-source initiatives.
 
 ### Featured Projects
-- **[Book Bound](https://github.com/Ashfinn/Book-Bound)** - A platform that helps book enthusiasts discover and track their reading journey.
-- **[HelpBot](https://github.com/Ashfinn/HelpBot)** - An AI-powered chatbot solution for customer support.
-- **[Rate My Professor](https://github.com/Ashfinn/RateMyProfessor)** - A community-driven platform for reviewing and rating professors.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +104,6 @@ We are always looking for contributors who are enthusiastic about learning and s
 
 - [x] Establish core projects
 - [x] Set up community guidelines
-- [ ] Host monthly webinars
 - [ ] Expand the number of contributors
 - [ ] Develop mentorship programs
 
@@ -164,7 +161,7 @@ We’d like to thank the following resources and communities for their support:
 [license-shield]: https://img.shields.io/github/license/Ashfinn/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Ashfinn/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your-linkedin
+[linkedin-url]: https://linkedin.com/in/obidur-rahman-shawal
 
 ---
 
