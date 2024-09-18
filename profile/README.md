@@ -120,7 +120,7 @@ We appreciate your contributions to our projects. To get started:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
-
+<!--
 ### Top contributors:
 
 <a href="https://github.com/Ashfinn/Best-README-Template/graphs/contributors">
@@ -128,13 +128,11 @@ We appreciate your contributions to our projects. To get started:
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 <!-- CONTACT -->
 ## Contact
 
-Obidur Rahman - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
-
-Organization Link: [https://github.com/Ashfinn](https://github.com/Ashfinn)
+Obidur Rahman - https://www.linkedin.com/in/obidur-rahman-shawal/ - obidur.shawal@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
