@@ -1,19 +1,8 @@
 <!-- Improved compatibility of back to top link -->
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!-- Using markdown "reference style" links for readability. -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- ORGANIZATION LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/Ashfinn">
+  <a href="https://github.com/The-Code-Forum/.github/image/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,14 +11,7 @@
   <p align="center">
     A Community for Coders by Coders.
     <br />
-    <a href="https://github.com/Ashfinn"><strong>Explore Our Repositories »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Ashfinn">View Our Projects</a>
-    ·
-    <a href="https://github.com/Ashfinn/issues/new?labels=bug&template=bug-report.md">Report a Bug</a>
-    ·
-    <a href="https://github.com/Ashfinn/issues/new?labels=enhancement&template=feature-request.md">Request a Feature</a>
+    <a href="https://github.com/The-Code-Forum?tab=repositories"><strong>Explore Our Repositories »</strong></a>
   </p>
 </div>
 
@@ -61,7 +43,7 @@
 <!-- ABOUT US -->
 ## About Us
 
-At **[Organization Name]**, we are passionate about creating a community where developers can collaborate, share knowledge, and contribute to open-source projects. We believe in the power of technology to bring positive change and empower individuals worldwide.
+At **[The Code Forum]**, we are passionate about creating a community where developers can collaborate, share knowledge, and contribute to open-source projects. We believe in the power of technology to bring positive change and empower individuals worldwide.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,12 +64,13 @@ We aim to:
 ## Projects
 
 Our organization is involved in various innovative and impactful projects, from web applications to AI-powered solutions. We encourage everyone to get involved in our open-source initiatives.
-
+<!--
 ### Featured Projects
 - **[Book Bound](https://github.com/Ashfinn/Book-Bound)** - A platform that helps book enthusiasts discover and track their reading journey.
 - **[HelpBot](https://github.com/Ashfinn/HelpBot)** - An AI-powered chatbot solution for customer support.
 - **[Rate My Professor](https://github.com/Ashfinn/RateMyProfessor)** - A community-driven platform for reviewing and rating professors.
-
+-->
+<br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GET INVOLVED -->
@@ -110,19 +93,12 @@ We are always looking for contributors who are enthusiastic about learning and s
 - [ ] Expand the number of contributors
 - [ ] Develop mentorship programs
 
-See the [open issues](https://github.com/Ashfinn/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+<!-- 
 ## Contributing
 
-We appreciate your contributions to our projects. To get started:
-1. Fork the repository.
-2. Create a branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
+We appreciate your contributions to our projects. 
 
 ### Top contributors:
 
@@ -131,17 +107,17 @@ We appreciate your contributions to our projects. To get started:
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 <!-- CONTACT -->
 ## Contact
 
 Obidur Rahman - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
 
-Organization Link: [https://github.com/Ashfinn](https://github.com/Ashfinn)
+Organization Link: [https://www.linkedin.com/company/104448207/](https://www.linkedin.com/company/104448207/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- 
 ## Acknowledgments
 
 We’d like to thank the following resources and communities for their support:
@@ -151,7 +127,7 @@ We’d like to thank the following resources and communities for their support:
 * [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/Ashfinn/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/Ashfinn/Best-README-Template/graphs/contributors
