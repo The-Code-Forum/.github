@@ -149,18 +149,14 @@ We’d like to thank the following resources and communities for their support:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/Ashfinn/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ashfinn/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/The-Code-Forum/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Ashfinn/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Ashfinn/Best-README-Template/network/members
+[forks-url]: https://github.com/The-Code-Forum/network/members
 [stars-shield]: https://img.shields.io/github/stars/Ashfinn/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Ashfinn/Best-README-Template/stargazers
+[stars-url]: https://github.com/The-Code-Forum/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Ashfinn/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Ashfinn/Best-README-Template/issues
+[issues-url]: https://github.com/The-Code-Forum/issues
 [license-shield]: https://img.shields.io/github/license/Ashfinn/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Ashfinn/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/obidur-rahman-shawal
-
----
-
-You can customize this template by adding specific projects, more contributors, or adding images of your organization logo. Let me know if you need further adjustments!
+[linkedin-url]: https://www.linkedin.com/company/104448207/
